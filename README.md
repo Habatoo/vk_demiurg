@@ -1,6 +1,8 @@
-h2 VK.Творцы
+## VK.Творцы
 ***
 
-https://github.com/vyacheslavchernov/vkcreators Frontend (node.js, react) [@habatoo]https://tlgg.ru/habatoo
+**Frontend (node.js, react)** [@vychernov](https://tlgg.ru/vychernov)
+https://github.com/vyacheslavchernov/vkcreators 
 
-https://github.com/Habatoo/vk_patrion Backend (python, flask) [@vychernov]https://tlgg.ru/vychernov
+**Backend (python, flask)**   [@habatoo](https://tlgg.ru/habatoo)
+https://github.com/Habatoo/vk_patrion 
